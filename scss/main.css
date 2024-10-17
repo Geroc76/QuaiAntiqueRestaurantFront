@@ -12038,7 +12038,8 @@ p {
   opacity: 0;
   transition: all 0.3s;
 }
-.image-card h3, .image-card .h3 {
+
+h3, .h3 {
   font-family: "Montserrat", sans-serif;
-  font-size: 35px;
+  font-size: 30px;
 }/*# sourceMappingURL=main.css.map */
